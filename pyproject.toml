@@ -4,11 +4,11 @@ build-backend = "setuptools.build_meta"
 
 
 [project]
-name = "moadian2"
-version = "0.0.2"
-description = "Connect to Moadian API V2"
+name = "moadian-full"
+version = "0.0.1"
+description = "Connect to Moadian API"
 readme = "README.md"
-authors = [{ name = "Mojtaba Karimi", email = "hi@thisiskarimi.com" }]
+authors = [{ name = "Parsa", email = "parsa@x017.ir" }]
 license = { file = "LICENSE" }
 classifiers = [
     "License :: OSI Approved :: MIT License",
@@ -26,5 +26,5 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/thisiskarimi/moadian2"
-Issues = "https://github.com/thisiskarimi/moadian2/issues"
+Homepage = "https://github.com/x017/moadian-full"
+Issues = "https://github.com/x017/moadian2/issues"
